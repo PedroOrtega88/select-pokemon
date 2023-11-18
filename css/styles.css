@@ -1,1 +1,56 @@
+html{
+    height: 100%;
+    background-image: url(../elkins-park-pennsylvaniamay-tarjetas-pokemon-que-bordean-un-fondo-blanco-niños-pequeños-en-el-parque-utilizan-estas-de-184150110.webp) ;
+    background-repeat: no-repeat;
+    background-size: 100%;  
+}
+body{
+font-size: 30px;
+    
+}
+h1 {
+display: flex;
+flex-wrap: wrap;
+text-decoration: underline;
+padding: 160px;
+font-size: 100px;    
+justify-content: center;
+color: blue;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#pokemon-details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: black;
+    font-size: 30px;
+    flex-direction: column; 
+    margin-left:700px;
+    margin-right:1000px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#get-pokemon{
+    margin-top: -35px;
+    color: black;
+    display: flex;
+    margin-left:650px;
+    font-size: 25px;
+    background-color:rgb(179, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pokemon-select{
+    background-color: rgb(179, 255, 0);
+    margin-left: 900px;
+    color: black;
+    text-decoration: solid;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
 
